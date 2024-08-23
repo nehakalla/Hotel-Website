@@ -1,0 +1,49 @@
+body{
+  background-color:#000435;
+  font-family:cursive;
+  color:white;
+}
+.heading{
+  text-align:center;
+  text-transform:capitalize;
+  font-size:34px;
+}
+h2{
+  text-align:right;
+  text-transform:capitalize;
+  font-size:30px;
+}
+.para{
+  text-align:right;
+  padding-top: 30px;
+    text-align: right;
+    margin-left: 30%;
+    padding-right: 20px;
+}
+th, td {
+    text-align: left;
+    border: 1px solid #f70303;
+    text-transform:capitalize;
+    margin:auto;
+    margin-bottom: 70px;
+    width: 60%;
+}
+th{
+  background-color:#f70303;
+}
+img{
+  text-align:center;
+}
+h3{
+  text-transform:capitalize;
+  text-decoration:underline;
+  text-align:center;
+  font-size:25px;
+}
+footer
+{
+  text-align:center;
+  background-color:#4F2D18;
+  pading-top:10px;
+  padding-bottom:10px;
+}
